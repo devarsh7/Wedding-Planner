@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493893466280",
+    "project_id": "wed-plan-d3751",
+    "storage_bucket": "wed-plan-d3751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493893466280:android:87b4a8d1c66eee1746ea9d",
+        "android_client_info": {
+          "package_name": "com.example.wedding_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493893466280-62mpqipt4m8otrpj55qrmqmuhscco81s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wedding_planner",
+            "certificate_hash": "e0d590115cc8ad4acc945b1cbca4d5add17eccb9"
+          }
+        },
+        {
+          "client_id": "493893466280-8tp52b8ef0at750puasm6ihg0isbuf1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXkCPh5NowpFXM08vMOTWg_Nnrb94uKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493893466280-8tp52b8ef0at750puasm6ihg0isbuf1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
